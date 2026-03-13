@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: pink;
+
+}
+
+header{
+    background-color: #222;
+    color: pink;
+    text-align: center;
+    padding: 20px;
+}
+
+nav{
+    background-color: #444;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a{
+    color: plum;
+    margin: 10px;
+    text-decoration: none;
+}
+
+section{
+    padding: 20px;
+}
+
+footer{
+    background-color: #222;
+    color: palevioletred;
+    text-align: center;
+    padding: 10px;
+}
